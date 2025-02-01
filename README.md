@@ -1,6 +1,6 @@
 Ba8alah is a 2D video game developed using Unity. The game follows a boy named Mised, who was on a road trip and got thirsty. He stopped at a small market to get water, but if he fails to get his water within 30 seconds, he will be stuck there forever until he finally succeeds.
 
-#Features
+# Features:
 
 Time-based challenge: Players must collect water within 30 seconds.
 
@@ -10,7 +10,7 @@ Interactive objects: Players can interact with objects in the game, such as wate
 
 Game states: Includes start screen, gameplay, and game-over screens.
 
-Gameplay
+# Gameplay:
 
 Control Mised using arrow keys or WASD to move.
 
@@ -20,7 +20,7 @@ If time runs out before collecting the water, the game ends.
 
 Restart the game after failure or exit to the main menu.
 
-Technologies Used
+# Technologies Used:
 
 Unity Engine
 
@@ -30,7 +30,7 @@ Animator for character animations
 
 Unity Scene Management for level transitions
 
-Project Structure
+# Project Structure
 
 Assets/ - Contains game assets such as sprites, sounds, and prefabs.
 
